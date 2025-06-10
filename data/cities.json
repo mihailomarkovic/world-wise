@@ -35,6 +35,54 @@
         "lng": 13.376933665713324
       },
       "id": "98443197"
+    },
+    {
+      "id": "5363",
+      "cityName": "Belgrade",
+      "country": "Serbia",
+      "emoji": "🇷🇸",
+      "date": "2025-06-10T20:53:47.102Z",
+      "notes": "TEST",
+      "position": {
+        "lat": "44.77793589631623",
+        "lng": "20.456542968750004"
+      }
+    },
+    {
+      "id": "e09e",
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-06-01T20:56:54.000Z",
+      "notes": "City of love",
+      "position": {
+        "lat": "48.850258199721495",
+        "lng": "2.3510742187500004"
+      }
+    },
+    {
+      "id": "93b9",
+      "cityName": "Podgorica",
+      "country": "Montenegro",
+      "emoji": "🇲🇪",
+      "date": "2025-06-10T21:00:43.655Z",
+      "notes": "",
+      "position": {
+        "lat": "42.439674178149446",
+        "lng": "19.270019531250004"
+      }
+    },
+    {
+      "id": "2324",
+      "cityName": "Lukavica",
+      "country": "Bosnia and Herzegovina",
+      "emoji": "🇧🇦",
+      "date": "2025-06-14T21:22:58.000Z",
+      "notes": "Sarajevo",
+      "position": {
+        "lat": "43.83848910616803",
+        "lng": "18.407592773437504"
+      }
     }
   ]
 }
