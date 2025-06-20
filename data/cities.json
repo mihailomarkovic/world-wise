@@ -37,18 +37,6 @@
       "id": "98443197"
     },
     {
-      "id": "37f9",
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2025-06-12T18:22:28.383Z",
-      "notes": "",
-      "position": {
-        "lat": "40.43022363450862",
-        "lng": "-3.6474609375000004"
-      }
-    },
-    {
       "id": "7e7a",
       "cityName": "Belgrade",
       "country": "Serbia",
@@ -61,66 +49,6 @@
       }
     },
     {
-      "id": "7ae3",
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2025-06-12T18:27:10.303Z",
-      "notes": "",
-      "position": {
-        "lat": "40.413496049701955",
-        "lng": "-3.6914062500000004"
-      }
-    },
-    {
-      "id": "2e8b",
-      "cityName": "mar da Palha",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2025-06-12T18:27:15.310Z",
-      "notes": "",
-      "position": {
-        "lat": "38.70265930723801",
-        "lng": "-9.118652343750002"
-      }
-    },
-    {
-      "id": "62e9",
-      "cityName": "Porta",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2025-06-20T10:27:36.205Z",
-      "notes": "",
-      "position": {
-        "lat": "42.53689200787317",
-        "lng": "1.7578125000000002"
-      }
-    },
-    {
-      "id": "03f0",
-      "cityName": "Sorgono",
-      "country": "Italy",
-      "emoji": "🇮🇹",
-      "date": "2025-06-20T10:27:42.969Z",
-      "notes": "",
-      "position": {
-        "lat": "40.027614437486655",
-        "lng": "9.096679687500002"
-      }
-    },
-    {
-      "id": "4b4c",
-      "cityName": "Prague",
-      "country": "Czechia",
-      "emoji": "🇨🇿",
-      "date": "2025-06-20T10:27:49.713Z",
-      "notes": "",
-      "position": {
-        "lat": "50.0923932109388",
-        "lng": "14.414062500000002"
-      }
-    },
-    {
       "id": "970a",
       "cityName": "Athens",
       "country": "Greece",
@@ -130,18 +58,6 @@
       "position": {
         "lat": "37.97018468810549",
         "lng": "23.774414062500004"
-      }
-    },
-    {
-      "id": "b01a",
-      "cityName": "Thessaloniki",
-      "country": "Greece",
-      "emoji": "🇬🇷",
-      "date": "2025-06-20T10:28:18.741Z",
-      "notes": "",
-      "position": {
-        "lat": "40.63896734381725",
-        "lng": "22.936706542968754"
       }
     }
   ]
